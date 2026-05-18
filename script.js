@@ -2,13 +2,64 @@ const letters = {
     dadu: {
         name: "Dadu",
         image: "imgs/dadu.jpg",
-        text: "Your love has always felt like a quiet blessing — steady, warm, and full of comfort. This little document is a reminder of how deeply you are loved, respected, and cherished by everyone around you."
+        text: `
+            <p>Shail nu janam thayu tena pehla divse Acharya Labdhisuri maharaj saheb aapda ghare aakho divas raheya hata tyara temne kahyu hatu ke tuk samay ma, sara samachar malse</p>
+
+            <p>ane next day morning aj samachar aaya ke pinky ne hospital ma admit karyu che ane bapore good news madi gayi</p>
+
+            <p>pachi tane jain international ma admit karva mate mein force karyu ane taru form hu pote laine aayo ane tane admit karavyu</p>
+
+            <p> pachi jyare tu australia gayo tyare mein tane writing ma aapyu hatu ke jain chokri lavje ane te amaru maan rakhyu ane tu jain chokri aj lavyo ena maate taro aabhar</p>
+
+            <p>
+               Shirin saathe final karta pehla te amari permission lidhi ena maate taro aabhar
+            </p>
+
+            <p>
+               Now last, Happy birthday to Shail! I wish you live 100 years with good health and happy life with Shirin. 
+            </p>
+        `
     },
 
     dadi: {
         name: "Dadi",
         image: "imgs/dadi.webp",
-        text: "Some love feels like home, and yours has always been that kind of love. You are cherished for your warmth, your kindness, and the beautiful place you hold in everyone’s heart."
+        text: `
+            <p> hu savthi vadhare khush hati tara born ma.</p>
+
+            <p>shail you are more precious to me than my own son</p>
+
+            <p>hu tara divas na chaar kapda badalti ti tane upto date rakhva mate tane toh niche mukyoj nathi etlo vahlo hato tu
+                ane tane radayo bi nathi kyare.</p>
+
+        
+            <p>
+               tane Australia mukalvani mane sehj bi ichha nati. 
+            </p>
+
+            <p>
+               mane evu yaad che ke tane train na toys no bau shok hato ane tane train bau gamti.
+            </p>
+
+            <p>
+               teh hamne kyare heran nathi karyo
+                tu nano hato tyar thi happy aj che. 
+            </p>
+
+            <p>
+               tu jyare Australia jaye tyare mane bau dukh thatu hatu. aji pan tu bau yaad ave. pan have hu savthi vadhare khush chu ke tu pacho ave che. 
+            </p>
+
+            <p>
+               tu 100 varash no tha eva mara aashirwaad ane mummy papa dada dadi ane LADU nu dhyaan rakhje.
+            </p>
+
+            <p>
+            Happy Birthday to you!!
+            </p>
+
+
+        `
     },
 
     nanu: {
