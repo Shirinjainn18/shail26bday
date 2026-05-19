@@ -175,7 +175,25 @@ const letters = {
     shitalDad: {
         name: "Shital Dad",
         image: "imgs/letter.webp",
-        text: "Every word here is a small reminder of how loved and valued you are. Your care, warmth, and presence mean so much more than words can fully explain."
+        text: `
+            <p>Dear Son,</p>
+
+            <p>
+                Very happy to have you as my eldest child, love
+            </p>
+
+            <p>
+                Seeing shirin with you and your parents feels like nature has been very kind to us. At the same time, I wish you all hte luck. You will realise gradually what does it mean 😍
+            </p>
+
+            <p>
+                Have given our world to you, you are smart enough to perfectly make a beautiful pair. 
+            </p>
+
+            <p>
+                Happy Birthday, God bless you!
+            </p>
+        `
     },
 
     rinkalMom: {
@@ -196,10 +214,8 @@ const letters = {
             <p>I’d actually like to go down a memory lane and tell you few of the many times when I felt the jitters and you prolly did not even know. (PS: In feb-march I used to re-read these texts whenever I missed you because I just couldn’t tell you that YET) </p>
             <ul>
                 <li>
-                    Thursday, 15 Jan: 
-                    You asked me if I like desserts and I said nope, can eat mirchi but not desserts and you replied by saying “No no it’s fine just watch me eat 😂😂”
-                    Heart rate: 11/10
-                    I was just flabbergasted and didn’t know what to even say
+                    Thursday, 15 Jan: You asked me if I like desserts and I said nope, can eat mirchi but not desserts and you replied by saying “No no it’s fine just watch me eat 😂😂”
+                    Heart rate: 11/10 I was just flabbergasted and didn’t know what to even say
                 </li>
 
                 <li>
@@ -214,8 +230,7 @@ Okay I admit I wanted to lay my head on your shoulders but oh would have been to
 
                 <li>
                     Capiche:
-I ordered tiramisu for you and you asked me if I ordered for you, I said yes ofc, you don’t like it if I do that for you, & you replied by saying, no ofc I like it. 
-I genuinely had jitters and said that because I did not know what else to say, I am too shyyy
+I ordered tiramisu for you and you asked me if I ordered for you, I said yes ofc, you don’t like it if I do that for you, & you replied by saying, no ofc I like it. I genuinely had jitters and said that because I did not know what else to say, I am too shyyy
                 </li>
 
                 <li>
@@ -322,7 +337,21 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
     tanviSia: {
         name: "Tanvi Sia",
         image: "imgs/letter.webp",
-        text: "You are loved in the smallest moments and the biggest memories. This letter is a sweet reminder that your presence is cherished more than you may ever realize."
+        text: `
+            <p>Happy birthday Shail 💞</p>
+
+            <p>
+                I still remember the day you were born and since you were the first son in the family I have always loved you like my own son
+            </p>
+
+            <p>
+                I have seen you grow up year by year and today when I look at you I feel so happy and proud of the person you have become 
+            </p>
+
+            <p>
+                I wish that god keeps you happy and healthy and successful in everything you do
+            </p>
+        `
     },
 
     sameerFua: {
