@@ -362,7 +362,7 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
 
     abhishaSia: {
         name: "Abhisha Sia",
-        image: "imgs/letter.webp",
+        image: "imgs/abhishasia.webp",
         text: "You are loved for the joy you bring, the memories you create, and the beautiful energy you carry. This little letter is a reminder that your presence means so much."
     },
 
@@ -466,7 +466,7 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
 
     samya: {
         name: "Samya",
-        image: "imgs/letter.webp",
+        image: "imgs/samya.webp",
         text: `
             <p>Happy 26th, Shail!! 🥳 Getting older, wiser and slowly becoming the responsible elder brother you were always meant to be.
             It’s always funny how you somehow manage to bully me while casually dropping life lessons at the same time but one thing that’s always gonna stay is how the 4 of us pull all nighters whenever you’re back, just talking about literally everything!! Those nights are actually iconic.</p>
@@ -479,7 +479,7 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
 
     shorya: {
         name: "Shorya",
-        image: "imgs/letter.webp",
+        image: "imgs/shorya.webp",
         text: "You are one of those people who make moments brighter and memories sweeter. This little note is a reminder that you are loved, appreciated, and truly special."
     },
 
