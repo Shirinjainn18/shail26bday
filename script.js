@@ -183,7 +183,7 @@ const letters = {
             </p>
 
             <p>
-                Seeing shirin with you and your parents feels like nature has been very kind to us. At the same time, I wish you all hte luck. You will realise gradually what does it mean 😍
+                Seeing shirin with you and your parents feels like nature has been very kind to us. At the same time, I wish you all the luck. You will realise gradually what does it mean 😍
             </p>
 
             <p>
