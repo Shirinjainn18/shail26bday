@@ -350,7 +350,7 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
         <p> Oh & also annoying you with doing cute tiktok trends with meee because I know you’d never say no to your dearly fiancée 🙂‍↔️ </p>
         <p> & also also abundant of cuddles & kisses xx </p>
 
-        <p> & if you still do not realise how much you really mean to me, just know that if there was chikni chameli playing on the dance floor and if you'd wanna leave that place and go for a walk in a cold breezy weather where I'd request you to carry my heels and give me your blazer because I'd prolly feel very cold & then hold your arm and just talk about life - just know that I'd always & always chose for the second option :)) </p>
+        <p> & if you still do not realise how much you really mean to me, just know that if there was chikni chameli playing on the dance floor and if you'd wanna leave that place and go for a walk in a cold breezy weather where I'd request you to carry my heels and give me your blazer because I'd prolly feel very cold & then hold your arm and just talk about life - just know that I'd always & always go for the second option :)) </p>
 
 
         <p> Can't wait to be with you <3 </p>
