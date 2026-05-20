@@ -378,9 +378,31 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
     },
 
     sameerFua: {
-        name: "Sameer Fua",
+        name: "Samir Fua",
         image: "imgs/letter.webp",
-        text: "You are valued for the warmth, care, and love you bring into the lives around you. This letter is a small reminder of how much your presence means to the family."
+        text: `
+            <p>Happy Birthday Shail,</p>
+
+            <p>
+                Feels unbelievable that when I first met Tanvi you were just a tiny 6-month-old baby… and now look at you — sitting in Sydney, all grown up, engaged to adorable girl , acting like a responsible adult 
+            </p>
+
+            <p>
+                Watching you grow has been special, and today all of us are proud of the wonderful person you have become….
+            </p>
+
+            <p>
+                May this year bring you happiness, success, laughter, health, and lots of beautiful moments with your new life partner ahead.
+            </p>
+
+            <p>
+            Enjoy your special day….
+            </p>
+
+            <p>
+            Happy Birthday, Shail! 🎂🥂
+            </p>
+        `
     },
 
     abhishaSia: {
