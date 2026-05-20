@@ -199,7 +199,30 @@ const letters = {
     rinkalMom: {
         name: "Rinkal Mom",
         image: "imgs/letter.webp",
-        text: "You are loved for the warmth, comfort, and kindness you bring into everyone’s life. This letter is a little reminder of how cherished you truly are."
+        text: `
+            <p>Dear Son,</p>
+
+            <p>
+                Happy Birthday Shail 
+            </p>
+
+            <p>
+                On this special day, my heart💖 is full of gratitude. I truly believe that God gave our family a beautiful gift 🎁when you entered my daughter’s life so unexpectedly. From the moment you became her life partner, the transition was so natural that I stopped seeing you as a son-in-law—I truly feel the same warmth and love for you as I do for a son.
+            </p>
+
+            <p>
+                My wish for you is that life rewards you with immense success and every achievement🥂 you strive for. I hope that every dream you hold in your heart finds its way to becoming your reality.
+            </p>
+
+            <p>
+                Most importantly, as you and my daughter walk this path together, I pray that your journey is anchored in happiness, mutual support, and a deep understanding of one another. May you both grow so strong together that you find the solution to every problem in each other's company, always moving forward hand-in-hand.
+            </p>
+
+             <p>
+                Enjoy your day to the fullest. You deserve all the joy in the world.
+            </p>
+
+        `
     },
 
     shirin: {
@@ -363,13 +386,36 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
     abhishaSia: {
         name: "Abhisha Sia",
         image: "imgs/abhishasia.webp",
-        text: "You are loved for the joy you bring, the memories you create, and the beautiful energy you carry. This little letter is a reminder that your presence means so much."
+        text: `
+            <p>Happy birthday, Shail! 🥰 </p>
+
+            <p>
+                You’ve come such a long way, 26 already and definitely not that little kid anymore who threw my very first phone into the water and casually admitted it when I asked 😂
+            </p>
+
+            <p>
+                It’s honestly so nice seeing you grow from that mischievous kid into a proper adult now 💞 Wishing you the best day ever and may all your wishes come true. 🥳
+            </p>
+        `
     },
 
     nayanFua: {
         name: "Nayan Fua",
         image: "imgs/letter.webp",
-        text: "The love and warmth you bring into the family never goes unnoticed. This letter is a small reminder of how much you are valued, respected, and loved by everyone around you."
+        text: `
+            <p>Happy birthday Shail 🥳🥳  </p>
+
+            <p>
+                Hope you get everything you want and all your wishes come true.
+            </p>
+
+            <p>
+                Come back soon beta need another party with you and your friends🍾those nights are very fun.I love our chill drinking sessions and all our random talks obviously only between us. 🤪😉
+                Happy 26th, enjoy your day 🥳🕺
+            </p>
+        `
+
+
     },
 
     nishitMama: {
@@ -480,7 +526,20 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
     shorya: {
         name: "Shorya",
         image: "imgs/shorya.webp",
-        text: "You are one of those people who make moments brighter and memories sweeter. This little note is a reminder that you are loved, appreciated, and truly special."
+        text: `
+            <p>Happy birthday, Shail bhai! 🥳 </p>
+
+            <p>
+                Now that you’re 26, I really hope you finally stop hitting me every time you see me 🤪
+            </p>
+
+            <p>
+            Also, I still remember Bhavya’s wedding ,coming with you into the boy’s room and just chilling there was honestly the best part. I was getting so bored with the didis 😪 but with you it was actually fun.
+            </p>
+
+            <p>
+            Hope you have an amazing birthday, elder bro 🤍</p>
+        `
     },
 
     tiana: {
