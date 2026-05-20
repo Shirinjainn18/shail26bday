@@ -8,7 +8,7 @@ const letters = {
             <p>ane next day morning aj samachar aaya ke pinky ne hospital ma admit karyu che ane bapore good news madi gayi</p>
 
             <p>pachi tane jain international ma admit karva mate mein force karyu ane taru form hu pote laine aayo ane tane admit karavyu</p>
-x
+
             <p> pachi jyare tu australia gayo tyare mein tane writing ma aapyu hatu ke jain chokri lavje ane te amaru maan rakhyu ane tu jain chokri aj lavyo ena maate taro aabhar</p>
 
             <p>
