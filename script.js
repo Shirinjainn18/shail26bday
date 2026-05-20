@@ -377,7 +377,7 @@ For the first time ever, you sent me the “Morning, girlfriend” text. I had t
         `
     },
 
-    sameerFua: {
+    samirFua: {
         name: "Samir Fua",
         image: "imgs/letter.webp",
         text: `
